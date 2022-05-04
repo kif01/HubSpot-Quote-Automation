@@ -1,6 +1,8 @@
 # HubSpot-Quote-Automation
 This is a proof of concept that shows how to use HubSpot Quote's API to automatically generate quotes and send them to customers based on a specific criteria that gets triggered in a workflow.
 
+Workflow example [HERE](https://app.hubspot.com/workflows/21005107/platform/flow/199719527/edit) (Only accessible for HubSpotters)
+
 # High-Level Flow
 
 <img width="1344" alt="Screenshot 2022-05-04 at 12 14 23" src="https://user-images.githubusercontent.com/15332386/166671546-63bd252b-2688-423f-b2ac-3f2a8ba8c68f.png">
