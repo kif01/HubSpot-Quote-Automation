@@ -7,7 +7,7 @@ Workflow example [HERE](https://app.hubspot.com/workflows/21005107/platform/flow
 
 # High-Level Flow
 
-<img width="1166" alt="Screenshot 2022-06-23 at 16 08 33" src="https://user-images.githubusercontent.com/15332386/175332230-f10f3a5b-56f7-48bf-aa8a-4774b737a617.png">
+<img width="1166" alt="Screenshot 2022-06-23 at 16 08 33" src="https://user-images.githubusercontent.com/15332386/175332543-8ed7839c-21c4-42e5-b9f6-2b4c04bc7cbe.png">
 
 # Workflow Code
 
